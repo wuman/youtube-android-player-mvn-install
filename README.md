@@ -11,6 +11,9 @@ If you use Maven you may wish to install/deploy the library to either a local
 repository or a private repo of your choice.  The included script helps you
 do exactly that.
 
+Instructions
+------------
+
 To install the library to a local Maven repository, simply run the included
 script without any arguments.
 
