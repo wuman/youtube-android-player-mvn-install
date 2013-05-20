@@ -2,7 +2,7 @@ Maven + YouTube Android Player API
 ==================================
 
 YouTube Android Player API was recently released and made available for download
-on their [[https://developers.google.com/youtube/android/player/downloads/|developer site]].
+on their [developer site](https://developers.google.com/youtube/android/player/downloads/).
 However, it is not publicly available on Maven central and the javadocs are
 loosely extracted as HTML files.
 
