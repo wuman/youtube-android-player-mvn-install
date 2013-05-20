@@ -28,3 +28,9 @@ the following dependency declaration:
   <version>1.0.0</version>
 </dependency>
 ```
+
+Acknowledgement
+---------------
+
+Note that this script is largely inspired by Jake Wharton's great work for
+[gms-mvn-install](https://github.com/JakeWharton/gms-mvn-install).
